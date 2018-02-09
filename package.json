@@ -1,5 +1,5 @@
 {
-  "name": "react-native-stream",
+  "name": "stream",
   "version": "0.1.9",
   "description": "",
   "main": "src/stream.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/kodefox/react-native-stream.git"
+    "url": "git+ssh://git@github.com/alackfeng/stream.git"
   },
   "author": "devteam@kodefox.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kodefox/react-native-stream/issues"
+    "url": "https://github.com/alackfeng/stream/issues"
   },
-  "homepage": "https://github.com/kodefox/react-native-stream#readme",
+  "homepage": "https://github.com/alackfeng/stream#readme",
   "dependencies": {
     "base64-js": "^1.2.0",
     "ieee754": "^1.1.8"
